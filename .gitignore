@@ -1,0 +1,17 @@
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Gno CLI binary (ako se builduje lokalno)
+gno
+
+# VSCode
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Gno submodule or source repo
+gno/
